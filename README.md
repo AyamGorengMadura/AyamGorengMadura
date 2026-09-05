@@ -13,6 +13,15 @@ I like building things that probably didn't need to exist.
 Currently exploring AI, LLMs, system architecture, Linux, and interactive software.
 Most of my projects start with “wait, what if I tried this?”
 
+### interests
+
+- Local-first AI & LLM systems
+- Modular software architecture
+- Distributed systems & event-driven design
+- Computer vision
+- Linux & self-hosted infrastructure
+- Human-computer interaction
+
 ### currently building — Project Nexus
 
 A home-server AI orchestration framework ("Cyrene"), designed as a 4-layer system: ingress/gateway, intent routing, context/state management, and an event bus feeding out to modular "satellites."
@@ -28,7 +37,7 @@ A home-server AI orchestration framework ("Cyrene"), designed as a 4-layer syste
 
 ### stack
 
-`Python` · `Redis` · `PostgreSQL / pgvector` · `Ollama (Qwen2.5)` · `Docker` · `Linux (Ubuntu / Arch)` · `Zsh + Starship`
+`Python` · `Redis` · `PostgreSQL / pgvector` · `Ollama (Qwen2.5)` · `Docker` · `Linux (Ubuntu / Arch / CachyOS)` · `Zsh + Starship`
 
 ---
 
