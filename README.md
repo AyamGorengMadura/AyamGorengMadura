@@ -1,6 +1,5 @@
 
-<div align="center"> <img src="https://giphy.com/embed/1448TKNMMg4BFu" width="480" height="432" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dance-hands-1448TKNMMg4BFu"> </div>
-
+<div align="center"> <img src="https://media.giphy.com/media/1448TKNMMg4BFu/giphy.gif" width="65%"/> </div>
 ---
 
 <h1 align="center">Satura Izhato Rufi</h1>
