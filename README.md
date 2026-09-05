@@ -9,11 +9,11 @@
 
 ### about
 
-Telecom engineering student building toward an edge-deployed AI security stack as thesis work. Comfortable moving between signal theory coursework and full systems — networking, embedded vision, local LLM orchestration.
+I like building things that probably didn't need to exist.
+Currently exploring AI, LLMs, system architecture, Linux, and interactive software.
+Most of my projects start with “wait, what if I tried this?”
 
-Currently on Ubuntu 24.04, living mostly in the terminal.
-
-### currently building — Project Nexus / Dozor
+### currently building — Project Nexus
 
 A home-server AI orchestration framework ("Cyrene"), designed as a 4-layer system: ingress/gateway, intent routing, context/state management, and an event bus feeding out to modular "satellites."
 
