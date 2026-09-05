@@ -1,6 +1,5 @@
 
 <div align="center"> <img src="https://media.giphy.com/media/1448TKNMMg4BFu/giphy.gif" width="65%"/> </div>
----
 
 <h1 align="center">Satura Izhato Rufi</h1>
 <p align="center"><i>D4 Telecommunications Engineering — Politeknik Negeri Semarang</i></p>
