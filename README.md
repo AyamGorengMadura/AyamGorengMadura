@@ -1,9 +1,3 @@
-<!-- <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3c2p3azBwa3RtcWt2MWNrZnhrNHB2eDh4c21jNHk4NW9obHQwN3ExMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/TiRfN8fgoaJlGI9pbn/giphy.gif" width="65%"/>
-</div>
-
---- -->
-
 <h1 align="center">Satura Izhato Rufi</h1>
 <p align="center"><i>D4 Telecommunications Engineering — Politeknik Negeri Semarang</i></p>
 <p align="center">
@@ -55,19 +49,6 @@ A home-server AI orchestration framework ("Cyrene"), designed as a 4-layer syste
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-<!-- ### github stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=n3kro&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=n3kro&theme=tokyonight&hide_border=true" height="160"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n3kro&layout=compact&theme=tokyonight&hide_border=true" height="140"/>
-
-</div> -->
 
 ---
 
